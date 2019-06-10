@@ -8,7 +8,6 @@ This is an example weather app made with ReactJS - Redux based on the Udemy cour
 Just go to the root directory of the app and use npm/yarn to start the app:
 
 - npm run start 
-or
 - yarn start
 
 Open your favourite browser and go to http://localhost:3000
